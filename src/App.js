@@ -1,11 +1,13 @@
 import React from "react";
 import './App.css'
-import Header from "./components/Banner/Banner";
+import Banner from "./components/Banner/Banner";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <div>
-      <Header/>
+      <Banner/>
+      <Navbar/>
     </div>
   );
 }
