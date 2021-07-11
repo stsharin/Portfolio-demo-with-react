@@ -29,7 +29,9 @@ const Banner = () => {
                     </div>
                     <div className="col-6">
                         <div className="banner__img">
-                            <img src="https://i.ibb.co/gZwFjbc/1613172209189.jpg" alt="me" />
+                            <img src="https://i.ibb.co/1mM7b4V/profile1.png" alt="me" />
+                            
+                            {/* https://i.ibb.co/gZwFjbc/1613172209189.jpg */}
                         </div>
                     </div>
                 </div>
