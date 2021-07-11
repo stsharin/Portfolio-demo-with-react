@@ -130,3 +130,40 @@ body {
   padding: 0 30px;
   margin-top: 150px;
 }
+
+/* services */
+.services{
+  background: #1f2235;
+  padding: 100px 0;
+  color: white;
+}
+
+.common{
+  width: 33.33333333333333%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.heading{
+  margin-bottom: 20px;
+  font-weight: 500;
+  color: #6e42c6;
+  font-size: 20px;
+}
+
+.mainHeader{
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.mainContent{
+  font-size: 16px;
+  color: #dfdfdf;
+}
+
+.commonBorder{
+  background: #6e42c6;
+  height: 3px;
+  width: 80px;
+  margin: 30px auto;
+}
